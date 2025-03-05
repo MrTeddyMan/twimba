@@ -40,6 +40,8 @@ This project is a simple **Tweet Feed App** that allows users to create, like, r
 ├── 📄 index.js    # JavaScript logic for tweet interactions
 ├── 📄 data.js     # Tweet data storage (imported in index.js)
 ├── 📄 index.css   # Stylesheet for UI styling
+├── images
+   ├── Add all the images, I haven't gotten around to figure that part out yet
 ```
 
 ## Dependencies
